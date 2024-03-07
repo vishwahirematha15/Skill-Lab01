@@ -1,2 +1,2 @@
-# Skill-Lab01
-hackathon(reactJS, frontend) related files (including main files: app.js, app.css etc.)
+Skill Lab hackathon (ReactJs, Frontend)
+even with main files such as app.js and others are been included
