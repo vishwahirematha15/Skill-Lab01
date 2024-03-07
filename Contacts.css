@@ -1,0 +1,36 @@
+/* Contacts.css */
+.contact-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center; /* Center text */
+}
+
+.contact-container h2 {
+    color: #333;
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.contact-container p {
+    color: #666;
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+.menu li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+    /* Add shadow effect */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.menu li a:hover {
+    background-color: #6EE7B7;
+}
+
